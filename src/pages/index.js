@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Questa è la prova di Gatsby per WDLab.</p>
     <p>Da adesso in poi, sviluppiamo cose serie.</p>
     <p>NUOVA RIGA INSERITA.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <div style={{ maxWidth: `600px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     <Link to="/page-2/">Vai alla seconda pagina</Link><br/>
