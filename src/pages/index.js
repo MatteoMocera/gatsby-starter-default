@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Ciao!</h1>
     <p>Questa è la prova di Gatsby per WDLab.</p>
     <p>Da adesso in poi, sviluppiamo cose serie.</p>
+    <p>NUOVA RIGA INSERITA.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
